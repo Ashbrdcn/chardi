@@ -1,0 +1,286 @@
+.login {
+    background-color: #dd424c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login .overlap-wrapper {
+    background-color: #dd424c;
+    width: 1554px;
+    height: 1089px;
+}
+
+.login .overlap {
+    position: relative;
+    width: 1414px;
+    height: 1089px;
+}
+
+.login .right-BG {
+    position: absolute;
+    width: 905px;
+    height: 1089px;
+    top: 0;
+    left: 0;
+    background-color: #171717;
+    box-shadow: 4px 10px 40px #00000040;
+}
+
+.login .group {
+    position: absolute;
+    width: 697px;
+    height: 799px;
+    top: 145px;
+    left: 717px;
+}
+
+.login .overlap-group {
+    position: relative;
+    width: 701px;
+    height: 799px;
+}
+
+.login .container {
+    position: absolute;
+    width: 681px;
+    height: 776px;
+    top: 23px;
+    left: 20px;
+}
+
+.login .div {
+    position: relative;
+    width: 677px;
+    height: 776px;
+    background-color: #eaeaea;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.login .don-t-have-an {
+    position: absolute;
+    width: 301px;
+    top: 711px;
+    left: 187px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .text-wrapper {
+    color: #353535;
+}
+
+.login .span {
+    color: #dd424c;
+}
+
+.login .remember-me {
+    position: absolute;
+    width: 197px;
+    height: 33px;
+    top: 522px;
+    left: 91px;
+}
+
+.login .text-wrapper-2 {
+    position: absolute;
+    width: 155px;
+    top: 0;
+    left: 40px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #353535;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .rectangle {
+    position: absolute;
+    width: 22px;
+    height: 25px;
+    top: 4px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 2px;
+}
+
+.login .text-wrapper-3 {
+    position: absolute;
+    width: 164px;
+    top: 526px;
+    left: 417px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #dd424b;
+    font-size: 20px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .overlap-group-wrapper {
+    position: absolute;
+    width: 492px;
+    height: 75px;
+    top: 594px;
+    left: 93px;
+}
+
+.login .overlap-group-2 {
+    position: relative;
+    width: 490px;
+    height: 75px;
+}
+
+.login .rectangle-2 {
+    position: absolute;
+    width: 488px;
+    height: 75px;
+    top: 0;
+    left: 2px;
+    background-color: #171717;
+    border-radius: 60px;
+}
+
+.login .text-wrapper-4 {
+    position: absolute;
+    width: 490px;
+    top: 21px;
+    left: 0;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .password {
+    position: absolute;
+    width: 492px;
+    height: 89px;
+    top: 389px;
+    left: 91px;
+}
+
+.login .div-wrapper {
+    position: relative;
+    width: 490px;
+    height: 89px;
+    background-color: #ffffff;
+    border-radius: 60px;
+}
+
+.login .text-wrapper-5 {
+    position: absolute;
+    width: 219px;
+    top: 28px;
+    left: 44px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .user-name {
+    position: absolute;
+    width: 492px;
+    height: 89px;
+    top: 250px;
+    left: 91px;
+}
+
+.login .text-wrapper-6 {
+    position: absolute;
+    width: 219px;
+    top: 28px;
+    left: 44px;
+    font-family: "Lato-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login .hello-world {
+    position: absolute;
+    width: 210px;
+    height: 68px;
+    top: 106px;
+    left: 232px;
+}
+
+.login .text-wrapper-7 {
+    position: absolute;
+    width: 208px;
+    top: 0;
+    left: 0;
+    font-family: "Lato-Medium", Helvetica;
+    font-weight: 500;
+    color: #8c8c8c;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login .red-logo {
+    position: absolute;
+    width: 86px;
+    height: 89px;
+    top: 0;
+    left: 0;
+}
+
+.login .overlap-2 {
+    position: relative;
+    height: 89px;
+}
+
+.login .ellipse {
+    left: 0;
+    border: 20px solid;
+    opacity: 0.5;
+    position: absolute;
+    width: 81px;
+    height: 89px;
+    top: 0;
+    background-color: #dd424b;
+    border-radius: 40.7px / 44.5px;
+    border-color: #ffffff;
+}
+
+.login .ellipse-2 {
+    left: 5px;
+    border: 10px solid;
+    box-shadow: 0px 4px 4px #00000040;
+    position: absolute;
+    width: 81px;
+    height: 89px;
+    top: 0;
+    background-color: #dd424b;
+    border-radius: 40.7px / 44.5px;
+    border-color: #ffffff;
+}
+
+.login .r-removebg-preview {
+    position: absolute;
+    width: 559px;
+    height: 637px;
+    top: 226px;
+    left: 65px;
+    object-fit: cover;
+}
